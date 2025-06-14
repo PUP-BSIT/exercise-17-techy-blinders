@@ -1,0 +1,21 @@
+From bartolome.py:
+
+Add single space after every set of blocks. - Consultado
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/bartolome.py#L131
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/bartolome.py#L140
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/bartolome.py#L150
+
+From ocariza.py: 
+
+Add single space after every set of blocks. - Vesliño
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/ocariza.py#L59
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/ocariza.py#L86
+https://github.com/PUP-BSIT/exercise-15-highpyve/blob/fd7ac64a092c218e72a291217c84a6de594bb55a/highpyve/ocariza.py#L97
+
+Overall comments:
+
+(ocariza.py) We can input special characters, it should be handled by the error handling. - Mosquito
+
+(overall): Consider adding line spaces between code and code groups for readability. - Piadozo
+
+(overall): Their code is clean, and also readable, but I think they can make it much simpler. 

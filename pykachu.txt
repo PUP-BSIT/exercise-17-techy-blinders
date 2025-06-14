@@ -1,0 +1,16 @@
+pykachu
+
+From main.py: This breaks consistency in how the team is handling class instances. In the main file, the instances are created using capitalized class names however, for Bualat, his importing and using a object while others are instantiated in the main script after importing the class. - Vesliño
+
+https://github.com/PUP-BSIT/exercise-15-pykachu/blob/2612a57305cd26f14995c8feea2a66659cba913d/main.py#L5
+https://github.com/PUP-BSIT/exercise-15-pykachu/blob/2612a57305cd26f14995c8feea2a66659cba913d/pykachu/bualat.py#L82
+
+From serquina.py: Menu loop is properly implemented with error handling for invalid input. - Consultado
+
+From salespara.py Method names, class structure, and constants are well-labeled.- Piadozo
+
+Overall comments:
+
+(overall): The comment is redundant because the function name already indicates its purpose, so including a comment is unnecessary. - Mosquito
+
+(overall): The code is too indented. Split the code into smaller parts to maintain a flatter structure.
